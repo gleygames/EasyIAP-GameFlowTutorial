@@ -1,0 +1,8 @@
+/Library/
+/Temp/
+/Assets/GameFlow/
+/Assets/GleyPlugins/
+*.sln
+*.csproj
+/Assets/GameFlow.meta
+/Assets/GleyPlugins.meta
